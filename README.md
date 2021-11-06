@@ -42,4 +42,4 @@ This app is developed using React Native and Owlbot Dictionary API
 - react-native run-ios
 ```
 - This will run the application on the emulator/attached device.
-- However you can also download this apk by going to this [link](https://nodejs.org/).
+- However you can also download this apk by going to this [link](https://drive.google.com/file/d/1KtlCtJ0QfEPxR9sYT950bYU-K03q0yut/view?usp=sharing).
